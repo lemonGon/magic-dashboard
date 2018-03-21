@@ -28,7 +28,8 @@ Although error messages are customised, they still appear as proper PHP error re
 2. Run composer update to install the project dependencies.
 3. Configure your web server to have the public folder as the web root.
 4. Open App/Config.php and enter your database configuration data.
-5. Import the database dashboard.sql enclosed herewith.
+5. Create a database and assign the relevant user password previously chosen.
+6. Import the database dashboard.sql that you can find inside the file magic_dashboard_DB.zip .
  
 ## Technology
 ### Back-end
